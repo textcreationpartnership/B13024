@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the suppressing of felons, and outlawes, their aiders and abettors, by bringing them to bee answerable to the seuerall lawes of the seuerall realmes of England and Scotland.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13024</idno><idno type="EEBO-CITATION">99892461</idno>
+  <idno type="VID">185723</idno>
+  <idno type="EEBO-PROQUEST">2240925218</idno>
+  
+            <idno type="STC">STC 8954</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.11[133]</idno>
+            <idno type="PROQUEST">ocm99892461</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892461e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13024)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185723)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:2[134])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the suppressing of felons, and outlawes, their aiders and abettors, by bringing them to bee answerable to the seuerall lawes of the seuerall realmes of England and Scotland.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXX. [1630]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Saint Iames, the thirtieth day of Iune, in the sixth yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms 24; Steele notation: In- into 2) sayd Lawes.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Outlaws --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185723:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>¶ A Proclamation for the suppressing of Felons, and Outlawes, their Aiders and Abettors, by bringing them to bee answerable to the seuerall Lawes of the seuerall Realmes of <hi>England</hi> and <hi>Scotland.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Wee are informed by the chiefe Landlords, and</hi> In<g ref="char:EOLhyphen"/>habitants of the Lands and Possessions, next adioyning to the Out-Bounds of Our Kingdomes of <hi>England</hi> and <hi>Scotland,</hi> that by the great and generall intercourse, secret practises, and combinati<g ref="char:EOLhyphen"/>ons of Outlawes, Felons, and Malefactors of both those King<g ref="char:EOLhyphen"/>domes, diuers and sundry Outrages and Felonies haue beene by them committed, to the great hurt, dammage and preiudice of Our good and dutifull Subiects, contrary to the weale and peaceable gouernment of both Our sayd Realmes; Wee hereupon taking into Our tender and Princely consideration, the speedy reformation of such so enormious mischiefes and inconueniences, and calling to minde, that sundry the chiefe Landlords of the Lands and Possessions next adioyning to the Frontiers of Our sayd two Kingdomes, were contented to vndertake to Our late Father of blessed memorie, that their Tenants vnder them should be answerable to Our Lawes, for any Felony, or other capitall Crime they should bee charged with; and if the partie or parties delinquent should happen to flie before hee or they should bee apprehended, and the partie grieued should by course of Law Iudict and Conuict the partie or parties delinquent, of the said Felonie or Felonies, that then the sayd Landlord, to whom the Forfeiture of such partie or parties Conuicted should accrew, should make restitution to the partie grieued, of such goods as were stollen from him by the said partie or parties Conuicted, by the sight of two Iustices of Peace of the said County, where the said Felonie was committed, to bee indifferently chosen by the sayd partie grieued, and the sayd Landlord: The sayd Landlord beeing lawfully authorized by himselfe, his officers and seruants to search for, and to apprehend any Felons, Fugitiues, Receitors, Abettors, Out-putters, or any other suspected persons secretly lurking, remaining, or beeing within the sayd Landlords bounds or limits, and him or them to bring,
+<pb facs="tcp:185723:2"/>and make answerable to the seuerall Lawes of Our said Kingdomes: Of which sayd vndertaking Wee well approue, and by this Our Proclamation doe straitly charge and com<g ref="char:EOLhyphen"/>mand all chiefe Landlords in the Counties of <hi>Cumberland</hi> and <hi>Northumberland,</hi> whom it may in any sort concerne, to put the same in execution to the vttermost of their power: And hereby accordingly giuing them, their officers and seruants, full and absolute power and authoritie, to search for all manner of Felons, Fugitiues, Outlawes, Receitors, Abet<g ref="char:EOLhyphen"/>tors, Out-putters, or any other vnknowen or suspected persons, secretly lurking, remay<g ref="char:EOLhyphen"/>ning or beeing within euery, or any of the sayd seuerall chiefe Landlords Bounds or Li<g ref="char:EOLhyphen"/>mits, and them to apprehend and make answerable to the seuerall Lawes of Our said King<g ref="char:EOLhyphen"/>domes.</p>
+            <p>And Wee doe hereby further forbid, forwarne, and straitly charge and command all, and all manner of persons, inhabiting any where within Tenne miles of the said Out-Bounds, and Frontiers of either of Our said Kingdomes, to forbeare to harbour, receiue, entertaine, or relieue any Felon, Fugitiue, outlawed, vnknowen or s<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>spected person, where<g ref="char:EOLhyphen"/>in if any bee discouered to offend after the Feast of Saint <hi>Iames</hi> the Apostle next ensuing, Wee will and command all and singular the sayd chiefe Landlords, their officers, and ser<g ref="char:EOLhyphen"/>uants, forthwith to apprehend all such offenders, in whose seuerall bounds or limits they in<g ref="char:EOLhyphen"/>habite; and them to present to the next Iustice of Peace of the County where they shall be ap<g ref="char:EOLhyphen"/>prehended, whom Wee straitly charge and command instantly to commit them to the next Gaole, there to remaine without Baile or Maineprise, vntill the partie or parties so har<g ref="char:EOLhyphen"/>boured, receiued, entertained, or relieued, doe yeeld themselues to bee brought foorth, and personally appeare before the seate of Iustice, to answere and abide their Trials for such their offences, as on Our behalfe they shall be charged with, according to the seuerall Lawes of Our said seuerall Kingdomes.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Saint Iames, </hi>
+                  <date>
+                     <hi>the Thirtieth day of Iune, in the sixth yeere of Our Reigne of Great Britaine, France and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent MAIESTIE: and by the Assignes of Iohn Bill. M.DC.XXX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
